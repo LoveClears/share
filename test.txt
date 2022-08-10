@@ -11,3 +11,8 @@ first test.txt
 
 小陈也写了一个文件
 >>>>>>> panda
+<<<<<<< HEAD
+=======
+
+panda11:04 2022/8/10
+>>>>>>> panda
